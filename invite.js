@@ -1,0 +1,1 @@
+"var geekdashboard = document.getElementsByClassName('uiButton _1sm'); for(var invite=0; invite<geekdashboard.length;invite++) { (function(invite) {        setTimeout(function(){            geekdashboard[invite].click();        }, 1000 + (3000 * invite));    })(invite); }" 
